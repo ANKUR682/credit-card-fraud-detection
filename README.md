@@ -1,4 +1,4 @@
-# credit-card-graud-detection
+# credit-card-fraud-detection
 
 # 💳 Credit Card Fraud Detection
 
